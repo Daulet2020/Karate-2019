@@ -16,12 +16,11 @@ Let's clone karate project from github:
 enter this URL: https://github.com/CybertekSchool/summer-2019-online-karate.git
 
 3. You should be able to see karate project.
-
  *  Enable auto-import
 
  *  Setup SDK if needed
 
-I don't know this tool, what should I do?
+I don't know this tool, what should I do then?
 
 * Answer: Many times, people get hired as SDET but not with the tools that you have learned. So you have to be ready for using new unknown tools. First thing that I would do, I would request knowledge transfer session from more experienced testers. Then, I would go to youtube.com/pluralsight.com/lynda.com/udemy.om or anything else and find a course to get a basic idea about new tool. Then, once I have a basic idea, I would try to find a documentation, since it has all required information.
 
